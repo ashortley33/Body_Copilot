@@ -1,4 +1,10 @@
 # Body_Copilot
-Body Copilot is designed to help adults who want to exercise more consistently find workout times that fit their schedule. The system accounts for calendar availability, preferred activities, workout duration, and preparation or travel time. It plans to use past activity patterns and wearable measurements to rank suitable workout times. The user can then accept or change the suggested workout times and find another time when a scheduling conflict arises. We are in the phase of testing whether wearable measurements improve predictions beyond time of day and past activity history. 
+Body Copilot is designed to help adults who want to exercise more consistently find workout times that fit their schedule. The system accounts for calendar availability, preferred activities, workout duration, and preparation or travel time. It plans to use past activity patterns and wearable measurements to rank suitable workout times. The user can then accept or change the suggested workout times and find another time when a scheduling conflict arises. We are testing whether wearable measurements improve predictions beyond time of day and past activity history. 
 
-So far, we have researching existing systems, examined Lifesnaps Fitbit data, and investigated how frequently measurements were recorded and what could affect their reliability. We conducted AI assisted analysis to examine missing values, duplicates, and potential features.  We interpreted4 correlations and feature rankings and recognized that these associations still need model testing to establish whether they improve predictions. 
+So far, we have researched existing systems, examined Lifesnaps Fitbit data, and investigated how frequently measurements were recorded and what could affect their reliability. We conducted AI assisted analysis to examine missing values, duplicates, and potential features. We interpreted correlations and feature rankings and recognized that these associations still need model testing to establish whether they improve predictions. 
+
+## Project documents
+
+- [Project proposal](Body_Copilot_Project_Proposal.pdf)
+- [Sensing and data acquisition](Body_Copilot_Sensing_and_Data_Acquisition.pdf)
+- [Feature analysis](Body_Copilot_Feature_Analysis.pdf)
