@@ -4,7 +4,7 @@ Body Copilot is designed to help adults who want to exercise more consistently f
 So far, we have researched existing systems, examined Lifesnaps Fitbit data, and investigated how frequently measurements were recorded and what could affect their reliability. We conducted AI assisted python analysis to examine missing values, duplicates, and potential features. We interpreted correlations and feature rankings and recognized that these associations still need model testing to establish whether they improve predictions. 
 
 ## Project documents
-
+- [AI-assisted Python analysis notebook](Body_Copilot_Feature_Analysis_GitHub.ipynb) — Developed with AI assistance to explore data quality, missing measurements, and potential predictive features.
 - [Project proposal](Body_Copilot_Project_Proposal.pdf)
 - [Sensing and data acquisition](Body_Copilot_Sensing_and_Data_Acquisition.pdf)
 - [Feature analysis](Body_Copilot_Feature_Analysis.pdf)
